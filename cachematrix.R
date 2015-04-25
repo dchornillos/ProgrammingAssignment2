@@ -6,6 +6,10 @@
 ## matrix and compute its inverse.The inverse matrix is cached
 ## so in the next execution the cached value is returned.
 
+## The functions follow the same structure than the
+## makeVector and cache mean function inside the README.md
+## https://github.com/rdpeng/ProgrammingAssignment2
+
 ## The function makeCacheMatrix create a special "matrix" object. 
 ## It returns a list of functions that: 
 ## 1. set the value of the matrix
